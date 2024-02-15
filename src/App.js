@@ -6,7 +6,7 @@ function App() {
   return (
     <div>
       <LoginSignUp/>
-      <p>Hello </p>
+
       
     </div>
   );
